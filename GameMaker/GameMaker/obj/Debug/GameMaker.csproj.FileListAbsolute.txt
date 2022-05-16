@@ -1,0 +1,17 @@
+C:\Users\Msi\Desktop\GameMaker\GameMaker\bin\Debug\GameMaker.exe.config
+C:\Users\Msi\Desktop\GameMaker\GameMaker\bin\Debug\GameMaker.exe
+C:\Users\Msi\Desktop\GameMaker\GameMaker\bin\Debug\GameMaker.pdb
+C:\Users\Msi\Desktop\GameMaker\GameMaker\obj\Debug\GameMaker.csprojResolveAssemblyReference.cache
+C:\Users\Msi\Desktop\GameMaker\GameMaker\obj\Debug\GameMaker.EditorWindow.resources
+C:\Users\Msi\Desktop\GameMaker\GameMaker\obj\Debug\GameMaker.GameMaker.resources
+C:\Users\Msi\Desktop\GameMaker\GameMaker\obj\Debug\GameMaker.Properties.Resources.resources
+C:\Users\Msi\Desktop\GameMaker\GameMaker\obj\Debug\GameMaker.csproj.GenerateResource.Cache
+C:\Users\Msi\Desktop\GameMaker\GameMaker\obj\Debug\GameMaker.exe
+C:\Users\Msi\Desktop\GameMaker\GameMaker\obj\Debug\GameMaker.pdb
+C:\Users\Msi\Desktop\GameMaker\GameMaker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Msi\Desktop\GameMaker\GameMaker\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Msi\Desktop\GameMaker\GameMaker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Msi\Desktop\GameMaker\GameMaker\obj\Debug\GameMaker.GamePanel.resources
+C:\Users\Msi\Desktop\GameMaker\GameMaker\obj\Debug\GameMaker.GameLoader.resources
+C:\Users\Msi\Desktop\GameMaker\GameMaker\obj\Debug\GameMaker.ControlWindow.resources
+C:\Users\Msi\Desktop\GameMaker\GameMaker\obj\Debug\GameMaker.InsertObject.resources
